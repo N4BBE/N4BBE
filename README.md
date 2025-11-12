@@ -1,4 +1,4 @@
-# Hi, I'm Mohamed Nabeel
+# Mohamed Nabeel
 
  **IT & Computer Science Enthusiast | Developer in Progress | Self-Host Learner**
 
