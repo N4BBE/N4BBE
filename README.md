@@ -1,7 +1,7 @@
 <h1 align="center">⚡ Mohamed Nabeel ⚡</h1>
 
 <p align="center">
-  <b>💻 IT & Computer Science Enthusiast | 🌱 Developer in Progress | ☁️ Self-Host Learner</b>
+  <b>💻 IT Enthusiast | 🌱 Developer in Progress | ☁️ Self-Host Learner</b>
 </p>
 
 <p align="center">
@@ -36,10 +36,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"> 
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> 
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000"> 
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </p>
