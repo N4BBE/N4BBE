@@ -1,7 +1,7 @@
-<h1 align="center">⚡ Mohamed Nabeel ⚡</h1>
+<h1 align="center">Mohamed Nabeel</h1>
 
 <p align="center">
-  <b>💻 IT Enthusiast | 🌱 Developer in Progress | ☁️ Self-Host Learner</b>
+  <b>💻 IT Enthusiast | Developer in Progress | Self-Host Learner</b>
 </p>
 
 <p align="center">
@@ -11,28 +11,28 @@
 
 ---
 
-### 🌌 What I’m Learning
+### What I’m Learning
 <p align="center">
-  🚀 <b>Frontend Development:</b> HTML, CSS, JavaScript, React <br>
-  ⚙️ <b>Backend & Databases:</b> Node.js, Laravel, MySQL <br>
-  🖥️ <b>IT Infrastructure:</b> Docker, Kubernetes, Linux servers, networking basics
+  <b>Frontend Development:</b> HTML, CSS, JavaScript, React <br>
+  <b>Backend & Databases:</b> Node.js, Laravel, MySQL <br>
+  <b>IT Infrastructure:</b> Docker, Kubernetes, Linux servers, networking basics
 </p>
 
 ---
 
 ### 💡 Projects & Practice
 <p align="center">
-  🗂️ <b>Media Server Setup</b> — full Docker stack (Jellyfin, Sonarr, Radarr, Overseerr, Nginx Proxy Manager, WireGuard VPN, Cloudflare Tunnel) <br>
-  🎨 <b>Personal Portfolio</b> — modern responsive portfolio with clean design <br>
-  🧠 <b>Virtual Lab</b> — experimenting with EVE-NG, VMware, DNS, and networking configurations
+  <b>Media Server Setup</b> — full Docker stack (Jellyfin, Sonarr, Radarr, Overseerr, Nginx Proxy Manager, WireGuard VPN, Cloudflare Tunnel) <br>
+  <b>Personal Portfolio</b> — modern responsive portfolio with clean design <br>
+  <b>Virtual Lab</b> — experimenting with Proxmox, DNS, and networking configurations
 </p>
 
 ---
 
 ### 🛠️ Tech Stack & Tools
-<p align="center">
+<!-- <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,react,nodejs,laravel,mysql,linux,docker,nginx,git,github&theme=dark" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"> 
@@ -45,9 +45,9 @@
 
 ### 🎯 Goals
 <p align="center">
-  🌐 Build a solid foundation in <b>IT and computer science fundamentals</b> <br>
-  🧩 Master <b>server management</b> and <b>application deployment</b> <br>
-  ⚡ Develop scalable and maintainable <b>full-stack applications</b>
+  Build a solid foundation in <b>IT and computer science fundamentals</b> <br>
+  Master <b>server management</b> and <b>application deployment</b> <br>
+  Develop scalable and maintainable <b>full-stack applications</b>
 </p>
 
 ---
